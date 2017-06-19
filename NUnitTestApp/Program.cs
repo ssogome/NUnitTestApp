@@ -10,6 +10,7 @@ namespace NUnitTestApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Let get started with this CI example with TS.");
         }
     }
 }
